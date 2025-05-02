@@ -1,0 +1,22 @@
+html, body {
+  margin: 9000;
+  padding: 0;
+  background: #9b2a2a;
+  background: linear-gradient(90deg,rgba(155, 42, 42, 1) 0%, rgba(180, 76, 76, 1) 15%, rgba(199, 149, 87, 1) 50%, rgba(204, 189, 121, 1) 61%, rgba(229, 237, 83, 1) 86%);
+}
+canvas {
+  display: block;
+}
+
+h1{
+  color: limegreen;
+  font-size: 7vw;
+}
+
+img{
+ rotate: 270deg;
+}
+
+section{
+  background-color: aquamarine;
+}
